@@ -1,50 +1,31 @@
 # Adam Al Anboori
 
-**Cybersecurity Student | Offensive Security | Red Teaming**
+Cybersecurity student based in Oman, focused on offensive security and red teaming. I spend most of my time in labs, breaking things, and writing about what I learn.
 
-I break things to understand how they work — then document everything so others can learn from it.
+## Currently
 
----
+- Working through **HTB CWES** (Web Exploitation)
+- Completing **HTB CPTS** coursework
+- Building my skills toward **OSCP**
 
-### What I Do
+## What I work on
 
-- Web application penetration testing (SQLi, XSS, SSRF, API, Business Logic)
-- Active Directory attack chains (Kerberos, ACL abuse, privilege escalation)
-- Network security analysis & protocol exploitation
-- Report writing & methodology (PTES, OSSTMM, CVSS v3.1)
-- Custom security tooling (Python, Bash)
+- Web application attacks: SQLi, XSS, SSRF, API testing, business logic flaws
+- Active Directory: Kerberos attacks, ACL abuse, privilege escalation chains
+- Network security: protocol analysis, Cisco security, Wireshark
+- Custom tooling in Python and Bash
+- Writing detailed reports following PTES and OSSTMM methodologies
 
----
+## Projects I maintain
 
-### Certifications
+- [pentest-labs](https://github.com/Alanboori/pentest-labs) — my main hub for labs, scripts, and writeups
+- [supabase-auth-upload](https://github.com/Alanboori/supabase-auth-upload) — authentication + file upload system using Supabase Edge Functions
+- [employee-attendance](https://github.com/Alanboori/employee-attendance) — location-based attendance system built with Deno and Supabase
 
-| Cert | Status |
-|---|---|
-| eJPTv2 | ✅ |
-| HTB CWES | 🔄 In Progress |
-| HTB CPTS | 📝 Coursework Complete |
-| OSCP | 🎯 Target |
+## Tools I use regularly
 
----
+Burp Suite, Metasploit, CrackMapExec, Nmap, Impacket, BloodHound, Nessus, SQLMap, ffuf, Hydra, John, Hashcat
 
-### Featured Projects
+## Find me online
 
-- [**pentest-labs**](https://github.com/Alanboori/pentest-labs) — Central hub for labs, scripts, writeups & reports
-- [**supabase-auth-upload**](https://github.com/Alanboori/supabase-auth-upload) — Secure auth + file upload with Supabase Edge Functions
-- [**employee-attendance**](https://github.com/Alanboori/employee-attendance) — Location-based attendance system (Deno + Supabase)
-
----
-
-### Tools
-
-Burp Suite | Metasploit | CrackMapExec | Nmap | Impacket | BloodHound | Nessus | SQLMap | ffuf | Hydra | John | Hashcat
-
----
-
-### Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/alanboori)
-[![Medium](https://img.shields.io/badge/-Medium-000?style=flat&logo=medium)](https://medium.com/@a.alanburi)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:a.alanburi@gmail.com)
-
-![Profile views](https://komarev.com/ghpvc/?username=Alanboori&color=blue&style=flat)
+[LinkedIn](https://linkedin.com/in/alanboori) | [Medium](https://medium.com/@a.alanburi) | a.alanburi@gmail.com
