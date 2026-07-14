@@ -45,6 +45,6 @@ Burp Suite | Metasploit | CrackMapExec | Nmap | Impacket | BloodHound | Nessus |
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/alanboori)
 [![Medium](https://img.shields.io/badge/-Medium-000?style=flat&logo=medium)](https://medium.com/@a.alanburi)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:a.alanburi@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:adam@al-anboori.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Alanboori&color=blue&style=flat)
